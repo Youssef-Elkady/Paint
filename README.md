@@ -1,6 +1,7 @@
 # Paint
-It is necessary to add the Jar file to enable loading and saving to JSON files.  
-Paint application created using Java swing. contains features such as: 
+### It is necessary to add the Jar file to enable loading and saving to JSON files.  
+   
+### Paint application created using Java swing. contains features such as: 
   
    
 1: drawing Ovals,Rectangles,Line segments and Triangles  
